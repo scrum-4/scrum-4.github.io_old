@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'https://github.com/scrum-4/scrum-4.github.io   \n https://scrum-4.github.io \n https://github.com/mdecycu/cmsimde', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'https://github.com/scrum-4/scrum-4.github.io \n https://scrum-4.github.io \n https://github.com/mdecycu/cmsimde \n', 'tags': '', 'url': 'About.html'}, {'title': 'STL', 'text': 'https://mde.tw/content/cmsimde.html   \n https://en.wikipedia.org/wiki/STL_(file_format) \n \n', 'tags': '', 'url': 'STL.html'}]};
